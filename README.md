@@ -1,1 +1,1 @@
-# SQL
+Hello, this is Payal. In this project, I have analyzed pizza sales using SQL queries. This analysis provides valuable insights into sales performance, which can help the business make data-driven decisions to increase sales and improve operations.
